@@ -1,6 +1,6 @@
 ### Olá eu sou a Rosemeire Trajano Silva Bogue 👋
 
-- � Hoje estou cursando uma Graduação em Engenharia da Computação
+-  Engenharia da Computação
 - 🌱 Estudando Python,Kivymd,
 - 👯 Contate- me no e-mail: meirebogue@hotmail.com
 - 😄 Pronouns: ela/dela
